@@ -1,0 +1,14 @@
+{
+    "user name": "Ali",
+    "country": "Egypt",
+    "skills":["HTML","CSS","JavaScript"],
+    "location":{
+        "Egypt": "hadayek",
+        "KSA":"malaz",
+"USA":"California"
+    },
+    "Age":16,
+    "working":false,
+    "identity":null,
+    "skills progress" : [{"html":"60%","pugsjs":"60%"}]
+}
